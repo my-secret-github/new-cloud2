@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="../static/styles.css" rel="stylesheet">
+
+</head>
+<body>
+    <h1>Your Guidelines Database</h1>
+    <p> Hello! </p>
+    <p> Please select the guides under the "Generate PDF" buttons. <br>
+        Once you've selected all of them, simply scroll down to the bottom, and click "<u>Submit</u>"</p>
+    <table>
+            {{ headers|safe }}
+            {{ rows|safe }}
+    </table>
+
+    <br> 
+
+    <h2>Create your Pdf Below:</h2>
+    <div id="submit-row">
+        <label style="font-family: Arial; margin-right:10px;margin-left:40px;">Create Your PDf:</label>
+        <input class="submit" type="text" placeholder="Input Name Here" id="inputText"/>
+        <input class="submit" type="text" placeholder="Input Style Here" id="inputStyle"/> 
+
+        <button class="submit" id="submitBtn">Create Editor Pdf</button>
+        <button class="submit" id="submitQaBtn">Create PDF Checklist</button>
+        <button class="submit" id="reset"> Reset Selection</button>
+
+    </div>
+
+
+    <div> 
+        <h2 style="text-align: center;">Note: There's a limit of PDF's that can be generated per day.</h2>
+    </div>
+    
+    <script src="../static/button_listener.js"></script>
+
+    <script src="../static/qa_pdf.js"></script>
+    <script src="../static/reset.js"></script>
+</body>
+</html>

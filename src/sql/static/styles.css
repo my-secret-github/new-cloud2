@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(247, 247, 247);
+    font-family: arial;
+}
+
+p {
+    text-indent: 30px;
+}
+h1 {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    font-style: oblique;
+    font-family: "Arial";
+}
+
+tr {
+    font-family: arial;
+    padding-left: 10px;
+}
+
+h2 {
+    align-items: center;
+    margin-left: 100px;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+button {
+    font: "Arial";
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 100px;
+    color: rgb(39, 114, 255);
+
+    border: 1px solid rgba(0, 0, 0, 1)
+
+}
+
+.submit {
+    font-size: 15px;
+    /* border-width: 50; */
+    padding: 15px 15px 15px 15px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.submitBtn.loading {
+    background-color: rgb(112, 174, 255);
+    color: white;
+}
+
+.submitBtn.loaded {
+    background-color: rgb(28, 28, 28);
+    color: white;
+    
+}
+
+table {
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+button:hover {
+    background-color: rgb(212, 245, 255);   
+    cursor:pointer;
+
+}
+
+.link {
+    font-style: italic;
+    text-decoration: none;
+}
+
+.link_button {
+    margin: 0 auto;
+    width: 80px;
+    height: auto;
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 15px;
+
+}
+
+
+input[type="checkbox"] {
+    transform: scale(1.5);
+    accent-color: rgb(0, 89, 255);
+    
+    display: block;
+    margin: 0 auto;
+}
+
+input[type="checkbox"]:hover {
+    cursor:pointer;
+    
+}
+
+#submit-row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 1300px;
+}

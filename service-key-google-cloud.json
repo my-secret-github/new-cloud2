@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "auto-pdf-project",
+  "private_key_id": "5e4b2e2e4305d1525a1e49a330d7b3c1a551ce18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSt80569sO+Hr4\nuYFz+1EF0BrQ4I2aP8L9f4KXAasZ2sNzc8XG74vTMSC1VtKDn0LfdXAaBMsYA8hA\n6V46FN7UNWWysmSVIXbx4VwEHxuB1SrYTbBZZMYu+LPeVC6vAbHzNjcyKYZmIHtc\nRmax4ixT1K5F6vBUzX9CK7VE1mXT35K9rCbCSsQ3vzEN+W62dCbYf1ZnPtzuuxz9\njwGg5wbPVaIcd2u4bRLSc5jPV6UgwCTr3dfmwBYY3DdhKpQZPq0sh0tb3nqbVOrP\nife/UyJ9E+KzS9dicccfh8FIELHU2LbEx7sx6/XHC7FTU28QzUSxKN8Qm+/Bt0Jb\nomuwGYpJAgMBAAECggEAALTQ0JwRkGdi1Cq0dFX75F7FmkbSd7Eh462G9+oipDu4\n4CfpBlWl4yzj3uudlNOh80hx8zYdsi5meuWEthvenL/rDuqr8EnadDylAEIUFFJt\n49+v3yZMi/JXj1TxapdD/4s9xciMZJZ4cY/HM8kGdJrcAespIAdjOvLR6xRrJhN2\nF7FJ8IxlhsmbiaFN+yFD7xTmj/tHi05v3WZ7hDZtE5g672sYnf6xi/nZxeDBEV39\nGM7kdLuMRaGqxfXmJ4bqv6pVXctbc6jwe76twqD8hOwwh7zprYXtsXVHGfJZoIYO\neocnqR4ORHj16hXxueQlyukcExjmc1lgDSRge/7EjwKBgQDK2kN7yg05uCmCYPuN\nx5QZUj5hortpZ267uSXs8illWMjKtOEYGCsiojnXD1LoQhQQb3Tyzt0D1o4/iVZJ\n3HpMMcUMqrZzlywAD1HpQKFFPDGuBO28FZ0YUkhlZBhKDBKiO+HGtUMLu5bCmURC\nekAq2T3oyBVlOUzL25DNAo8oewKBgQC5KHmZqAssObHRX6FJqH0CSfAamAOiHWyy\nilDOVlf4RGZGcoQKhnIu72Ve+msE/KYGC6HijsFk4JQ7fgdQyeUEaXMbSry4s4NF\n4pKGVYS1+U9g9jlBfQYA2KF9yaONngaV4ttA8burixGgY1ph3najVIxx2wFuVj/x\n0hRbb0NXCwKBgHRyKO0FxuPMYR+z9pOj7tM+UAsSNI1ET9+5YBkNxk+kUNd0UAbZ\n0OE3yQY4iLpFPGlW4gaEU4FhiBTXDM6nnxjgNSKZWNUwAZUjNj002Z759/bSY3pl\n2eFdUqvJctwG5Cd3Qpsj8JHqpJefDf0vWmh+friDKy0JYJlhuFTHVFDDAoGAL/HF\nGv6idf8yhi6nCvWv+QnAPIKkXjQUU17xcZx2BvlfKlq4yijqJDElJKTfVVk+fE5C\nyvGALmjguU73AfplbPEJN0Xw/DqvgUcb/eDjDmPSJB9d0BFZnpp5pqKx0RfcSK+H\napetqsvF8qwHWVRLkBtyioDVLAb1Y96sGskCvOUCgYEAlo86BCJPF03WsIXJtRdc\nqPisDmpP7RRPOuw+OgS3japkJPiKii0POHaIniZ2JMDsN19qAfq/X99yQ//eR8PR\ncvVkLy7H6/wU/nf1UT117M3sKnkOHdQQKMJ5ll9LQYk8UI71cYS8TLswO6jjlReA\nPHudH3vzdKhi21YXUPsa/lA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage-upload@auto-pdf-project.iam.gserviceaccount.com",
+  "client_id": "110857424450871695698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage-upload%40auto-pdf-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
